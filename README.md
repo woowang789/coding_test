@@ -52,6 +52,15 @@
       <td id="date">2022-07-20</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/2579">2579</a></td>
+      <td id="title">계단 오르기</td>
+      <td id="level">8</td>
+      <td id="tags">다이나믹 프로그래밍</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P2579.java">JAVA</a></td>
+      <td id="date">2022-07-20</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
