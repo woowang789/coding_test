@@ -34,6 +34,15 @@
       <td id="date">2022-07-20</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/1992">1992</a></td>
+      <td id="title">쿼드트리</td>
+      <td id="level">10</td>
+      <td id="tags">분할 정복, 재귀</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P1992.java">JAVA</a></td>
+      <td id="date">2022-07-20</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
