@@ -79,6 +79,15 @@
       <td id="date">2022-07-20</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/2667">2667</a></td>
+      <td id="title">단지번호붙이기</td>
+      <td id="level">10</td>
+      <td id="tags">너비 우선 탐색, 깊이 우선 탐색, 그래프 이론, 그래프 탐색</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P2667.java">JAVA</a></td>
+      <td id="date">2022-07-20</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
