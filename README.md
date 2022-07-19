@@ -70,6 +70,15 @@
       <td id="date">2022-07-20</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/2630">2630</a></td>
+      <td id="title">색종이 만들기</td>
+      <td id="level">9</td>
+      <td id="tags">분할 정복, 재귀</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P2630.java">JAVA</a></td>
+      <td id="date">2022-07-20</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
