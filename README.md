@@ -41,7 +41,7 @@
       <td id="tags">분할 정복, 재귀</td>
       <td id="lang"><a href="src/main/java/problem/baekjoon/P1992.java">JAVA</a></td>
       <td id="date">2022-07-20</td>
-      <td id="memo"></td>
+      <td id="memo">사분면</td>
      </tr>
      <tr>
       <td id="id"><a href="https://www.acmicpc.net/problem/2178">2178</a></td>
@@ -50,7 +50,7 @@
       <td id="tags">너비 우선 탐색, 그래프 이론, 그래프 탐색</td>
       <td id="lang"><a href="src/main/java/problem/baekjoon/P2178.java">JAVA</a></td>
       <td id="date">2022-07-20</td>
-      <td id="memo"></td>
+      <td id="memo">메모리 깐깐</td>
      </tr>
      <tr>
       <td id="id"><a href="https://www.acmicpc.net/problem/2579">2579</a></td>
@@ -58,6 +58,15 @@
       <td id="level">8</td>
       <td id="tags">다이나믹 프로그래밍</td>
       <td id="lang"><a href="src/main/java/problem/baekjoon/P2579.java">JAVA</a></td>
+      <td id="date">2022-07-20</td>
+      <td id="memo">상황 나누기</td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/2606">2606</a></td>
+      <td id="title">바이러스</td>
+      <td id="level">8</td>
+      <td id="tags">그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P2606.java">JAVA</a></td>
       <td id="date">2022-07-20</td>
       <td id="memo"></td>
      </tr>
