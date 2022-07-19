@@ -88,6 +88,15 @@
       <td id="date">2022-07-20</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/5430">5430</a></td>
+      <td id="title">AC</td>
+      <td id="level">11</td>
+      <td id="tags">덱, 파싱, 구현, 문자열, 자료 구조</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P5430.java">JAVA</a></td>
+      <td id="date">2022-07-20</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
