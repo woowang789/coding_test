@@ -113,6 +113,15 @@
       <td id="tags">너비 우선 탐색, 그래프 이론, 그래프 탐색</td>
       <td id="lang"><a href="src/main/java/problem/baekjoon/P7569.java">JAVA</a></td>
       <td id="date">2022-07-21</td>
+      <td id="memo">bfs, 그런데 3차원을 곁들인..</td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/7576">7576</a></td>
+      <td id="title">토마토</td>
+      <td id="level">11</td>
+      <td id="tags">너비 우선 탐색, 그래프 이론, 그래프 탐색</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P7576.java">JAVA</a></td>
+      <td id="date">2022-07-21</td>
       <td id="memo"></td>
      </tr>
     </tbody>
