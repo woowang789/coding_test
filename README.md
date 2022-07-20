@@ -124,6 +124,15 @@
       <td id="date">2022-07-21</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/7662">7662</a></td>
+      <td id="title">이중 우선순위 큐</td>
+      <td id="level">12</td>
+      <td id="tags">자료 구조, 우선순위 큐, 트리를 사용한 집합과 맵</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P7662.java">JAVA</a></td>
+      <td id="date">2022-07-21</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
