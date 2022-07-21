@@ -131,6 +131,15 @@
       <td id="tags">자료 구조, 우선순위 큐, 트리를 사용한 집합과 맵</td>
       <td id="lang"><a href="src/main/java/problem/baekjoon/P7662.java">JAVA</a></td>
       <td id="date">2022-07-21</td>
+      <td id="memo">2개의 우선순위 큐 + map을 이용한 동기화</td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/9019">9019</a></td>
+      <td id="title">DSLR</td>
+      <td id="level">12</td>
+      <td id="tags">너비 우선 탐색, 그래프 이론, 그래프 탐색</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P9019.java">JAVA</a></td>
+      <td id="date">2022-07-21</td>
       <td id="memo"></td>
      </tr>
     </tbody>
