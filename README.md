@@ -140,6 +140,69 @@
       <td id="tags">너비 우선 탐색, 그래프 이론, 그래프 탐색</td>
       <td id="lang"><a href="src/main/java/problem/baekjoon/P9019.java">JAVA</a></td>
       <td id="date">2022-07-21</td>
+      <td id="memo">int 숫자 자리값 바꾸기</td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/10026">10026</a></td>
+      <td id="title">적록색약</td>
+      <td id="level">11</td>
+      <td id="tags">너비 우선 탐색, 깊이 우선 탐색, 그래프 이론, 그래프 탐색</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P10026.java">JAVA</a></td>
+      <td id="date">2022-07-22</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/11047">11047</a></td>
+      <td id="title">동전 0</td>
+      <td id="level">7</td>
+      <td id="tags">그리디 알고리즘</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P11047.java">JAVA</a></td>
+      <td id="date">2022-07-22</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/11279">11279</a></td>
+      <td id="title">최대 힙</td>
+      <td id="level">9</td>
+      <td id="tags">자료 구조, 우선순위 큐</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P11279.java">JAVA</a></td>
+      <td id="date">2022-07-22</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/11286">11286</a></td>
+      <td id="title">절댓값 힙</td>
+      <td id="level">10</td>
+      <td id="tags">자료 구조, 우선순위 큐</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P11286.java">JAVA</a></td>
+      <td id="date">2022-07-22</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/9095">9095</a></td>
+      <td id="title">1, 2, 3 더하기</td>
+      <td id="level">8</td>
+      <td id="tags">다이나믹 프로그래밍</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P9095.java">JAVA</a></td>
+      <td id="date">2022-07-22</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/9375">9375</a></td>
+      <td id="title">패션왕 신해빈</td>
+      <td id="level">8</td>
+      <td id="tags">조합론, 자료 구조, 해시를 사용한 집합과 맵, 수학</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P9375.java">JAVA</a></td>
+      <td id="date">2022-07-22</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/9461">9461</a></td>
+      <td id="title">파도반 수열</td>
+      <td id="level">8</td>
+      <td id="tags">다이나믹 프로그래밍, 수학</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P9461.java">JAVA</a></td>
+      <td id="date">2022-07-22</td>
       <td id="memo"></td>
      </tr>
     </tbody>
