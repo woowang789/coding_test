@@ -250,6 +250,24 @@
       <td id="date">2022-07-22</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/11726">11726</a></td>
+      <td id="title">2×n 타일링</td>
+      <td id="level">8</td>
+      <td id="tags">다이나믹 프로그래밍</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P11726.java">JAVA</a></td>
+      <td id="date">2022-07-26</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/11727">11727</a></td>
+      <td id="title">2×n 타일링 2</td>
+      <td id="level">8</td>
+      <td id="tags">다이나믹 프로그래밍</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P11727.java">JAVA</a></td>
+      <td id="date">2022-07-26</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
