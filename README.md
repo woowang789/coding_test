@@ -268,6 +268,24 @@
       <td id="date">2022-07-26</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/14500">14500</a></td>
+      <td id="title">테트로미노</td>
+      <td id="level">11</td>
+      <td id="tags">브루트포스 알고리즘, 구현</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P14500.java">JAVA</a></td>
+      <td id="date">2022-07-26</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/16236">16236</a></td>
+      <td id="title">아기 상어</td>
+      <td id="level">13</td>
+      <td id="tags">너비 우선 탐색, 그래프 이론, 그래프 탐색, 구현, 시뮬레이션</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P16236.java">JAVA</a></td>
+      <td id="date">2022-07-26</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
