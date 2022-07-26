@@ -295,6 +295,33 @@
       <td id="date">2022-07-26</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/17219">17219</a></td>
+      <td id="title">비밀번호 찾기</td>
+      <td id="level">7</td>
+      <td id="tags">자료 구조, 해시를 사용한 집합과 맵</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P17219.java">JAVA</a></td>
+      <td id="date">2022-07-27</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/17626">17626</a></td>
+      <td id="title">Four Squares</td>
+      <td id="level">8</td>
+      <td id="tags">브루트포스 알고리즘, 다이나믹 프로그래밍</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P17626.java">JAVA</a></td>
+      <td id="date">2022-07-27</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/18870">18870</a></td>
+      <td id="title">좌표 압축</td>
+      <td id="level">9</td>
+      <td id="tags">값 / 좌표 압축, 정렬</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P18870.java">JAVA</a></td>
+      <td id="date">2022-07-27</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
