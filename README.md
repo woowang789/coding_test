@@ -311,7 +311,7 @@
       <td id="tags">브루트포스 알고리즘, 다이나믹 프로그래밍</td>
       <td id="lang"><a href="src/main/java/problem/baekjoon/P17626.java">JAVA</a></td>
       <td id="date">2022-07-27</td>
-      <td id="memo"></td>
+      <td id="memo">점화식, bottom up</td>
      </tr>
      <tr>
       <td id="id"><a href="https://www.acmicpc.net/problem/18870">18870</a></td>
