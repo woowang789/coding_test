@@ -322,6 +322,42 @@
       <td id="date">2022-07-27</td>
       <td id="memo"></td>
      </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/1043">1043</a></td>
+      <td id="title">거짓말</td>
+      <td id="level">12</td>
+      <td id="tags">자료 구조, 분리 집합, 그래프 이론, 그래프 탐색</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P1043.java">JAVA</a></td>
+      <td id="date">2022-07-29</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/1149">1149</a></td>
+      <td id="title">RGB거리</td>
+      <td id="level">10</td>
+      <td id="tags">다이나믹 프로그래밍</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P1149.java">JAVA</a></td>
+      <td id="date">2022-07-29</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/1043">1043</a></td>
+      <td id="title">거짓말</td>
+      <td id="level">12</td>
+      <td id="tags">자료 구조, 분리 집합, 그래프 이론, 그래프 탐색</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P1043.java">JAVA</a></td>
+      <td id="date">2022-07-29</td>
+      <td id="memo"></td>
+     </tr>
+     <tr>
+      <td id="id"><a href="https://www.acmicpc.net/problem/1149">1149</a></td>
+      <td id="title">RGB거리</td>
+      <td id="level">10</td>
+      <td id="tags">다이나믹 프로그래밍</td>
+      <td id="lang"><a href="src/main/java/problem/baekjoon/P1149.java">JAVA</a></td>
+      <td id="date">2022-07-29</td>
+      <td id="memo"></td>
+     </tr>
     </tbody>
    </table>
   </div>
