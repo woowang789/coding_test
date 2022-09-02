@@ -35,6 +35,14 @@
      <td id="level">Lv. 3</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_118668.java">JAVA</a></td>
      <td id="date" value="2022-09-02T11:21:55.279793">2022-09-02</td>
+     <td id="memo">dp 2차원 배열</td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">60057</a></td>
+     <td id="title">문자열 압축</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_60057.java">JAVA</a></td>
+     <td id="date" value="2022-09-02T15:32:59.235161">2022-09-02</td>
      <td id="memo"></td>
     </tr>
    </tbody>
