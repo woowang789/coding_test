@@ -149,6 +149,14 @@
      <td id="date" value="2022-09-03T19:30:00.485384">2022-09-03</td>
      <td id="memo"></td>
     </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">12973</a></td>
+     <td id="title">짝지어 제거하기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12973.java">JAVA</a></td>
+     <td id="date" value="2022-09-03T20:07:23.398286">2022-09-03</td>
+     <td id="memo"></td>
+    </tr>
    </tbody>
   </table>
  </div>
