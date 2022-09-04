@@ -277,6 +277,14 @@
      <td id="date" value="2022-09-05T00:50:46.152917">2022-09-05</td>
      <td id="memo"></td>
     </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">1844</a></td>
+     <td id="title">게임 맵 최단거리</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_1844.java">JAVA</a></td>
+     <td id="date" value="2022-09-05T01:00:25.771194">2022-09-05</td>
+     <td id="memo"></td>
+    </tr>
    </tbody>
   </table>
  </div>
