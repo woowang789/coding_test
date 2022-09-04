@@ -299,6 +299,14 @@
      <td id="level">Lv. 3</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_49191.java">JAVA</a></td>
      <td id="date" value="2022-09-05T02:15:13.300372">2022-09-05</td>
+     <td id="memo">플로이드 워셜 (모든 정점에서 모든 정점으로의 최단거리)</td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985">12985</a></td>
+     <td id="title">예상 대진표</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12985.java">JAVA</a></td>
+     <td id="date" value="2022-09-05T02:35:32.120642">2022-09-05</td>
      <td id="memo"></td>
     </tr>
    </tbody>
