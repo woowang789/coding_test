@@ -197,6 +197,14 @@
      <td id="date" value="2022-09-04T14:35:10.578994">2022-09-04</td>
      <td id="memo"></td>
     </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257">67257</a></td>
+     <td id="title">수식 최대화</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_67257.java">JAVA</a></td>
+     <td id="date" value="2022-09-04T15:06:14.007010">2022-09-04</td>
+     <td id="memo"></td>
+    </tr>
    </tbody>
   </table>
  </div>
