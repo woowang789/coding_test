@@ -51,7 +51,7 @@
      <td id="level">Lv. 2</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_42888.java">JAVA</a></td>
      <td id="date" value="2022-09-02T15:50:08.237117">2022-09-02</td>
-     <td id="memo"></td>
+     <td id="memo">List -&gt; Array : answer.toArray(new String[0])</td>
     </tr>
     <tr>
      <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17676">17676</a></td>
@@ -187,6 +187,14 @@
      <td id="level">Lv. 2</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_17677.java">JAVA</a></td>
      <td id="date" value="2022-09-04T14:00:31.666603">2022-09-04</td>
+     <td id="memo">교집합: set.retainAll(Collection) / 합집합 : set.addAll(Collection)</td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">81302</a></td>
+     <td id="title">거리두기 확인하기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_81302.java">JAVA</a></td>
+     <td id="date" value="2022-09-04T14:35:10.578994">2022-09-04</td>
      <td id="memo"></td>
     </tr>
    </tbody>
