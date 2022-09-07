@@ -341,6 +341,14 @@
      <td id="date" value="2022-09-08T03:58:10.480268">2022-09-08</td>
      <td id="memo"></td>
     </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">12951</a></td>
+     <td id="title">JadenCase 문자열 만들기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12951.java">JAVA</a></td>
+     <td id="date" value="2022-09-08T04:19:28.005975">2022-09-08</td>
+     <td id="memo"></td>
+    </tr>
    </tbody>
   </table>
  </div>
