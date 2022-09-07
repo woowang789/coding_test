@@ -357,6 +357,14 @@
      <td id="date" value="2022-09-08T04:30:01.381447">2022-09-08</td>
      <td id="memo"></td>
     </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">12941</a></td>
+     <td id="title">최솟값 만들기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12941.java">JAVA</a></td>
+     <td id="date" value="2022-09-08T04:33:53.010562">2022-09-08</td>
+     <td id="memo"></td>
+    </tr>
    </tbody>
   </table>
  </div>
