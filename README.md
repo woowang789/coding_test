@@ -323,6 +323,22 @@
      <td id="level">Lv. 2</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_72412.java">JAVA</a></td>
      <td id="date" value="2022-09-06T03:11:55.922199">2022-09-06</td>
+     <td id="memo">hashMap, binarySearch</td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">42890</a></td>
+     <td id="title">후보키</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42890.java">JAVA</a></td>
+     <td id="date" value="2022-09-08T03:58:10.480240">2022-09-08</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939">12939</a></td>
+     <td id="title">최댓값과 최솟값</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12939.java">JAVA</a></td>
+     <td id="date" value="2022-09-08T03:58:10.480268">2022-09-08</td>
      <td id="memo"></td>
     </tr>
    </tbody>
