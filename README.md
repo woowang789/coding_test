@@ -349,6 +349,14 @@
      <td id="date" value="2022-09-08T04:19:28.005975">2022-09-08</td>
      <td id="memo"></td>
     </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">70129</a></td>
+     <td id="title">이진 변환 반복하기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_70129.java">JAVA</a></td>
+     <td id="date" value="2022-09-08T04:30:01.381447">2022-09-08</td>
+     <td id="memo"></td>
+    </tr>
    </tbody>
   </table>
  </div>
