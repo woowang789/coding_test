@@ -411,6 +411,14 @@
      <td id="level">Lv. 2</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_42885.java">JAVA</a></td>
      <td id="date" value="2022-09-09T02:54:35.763213">2022-09-09</td>
+     <td id="memo">새로운 배열 생성조차 허락 안해주는 효율성 문제</td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953">12953</a></td>
+     <td id="title">N개의 최소공배수</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12953.java">JAVA</a></td>
+     <td id="date" value="2022-09-09T22:55:31.015270">2022-09-09</td>
      <td id="memo"></td>
     </tr>
    </tbody>
