@@ -469,6 +469,46 @@
      <td id="date" value="2022-09-10T01:02:55.215481">2022-09-10</td>
      <td id="memo"></td>
     </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">42628</a></td>
+     <td id="title">이중우선순위큐</td>
+     <td id="level">Lv. 3</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42628.java">JAVA</a></td>
+     <td id="date" value="2022-09-12T16:24:27.364729">2022-09-12</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">42578</a></td>
+     <td id="title">위장</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42578.java">JAVA</a></td>
+     <td id="date" value="2022-09-12T16:24:27.364770">2022-09-12</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502">76502</a></td>
+     <td id="title">괄호 회전하기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_76502.java">JAVA</a></td>
+     <td id="date" value="2022-09-12T16:24:27.364774">2022-09-12</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">87390</a></td>
+     <td id="title">n^2 배열 자르기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_87390.java">JAVA</a></td>
+     <td id="date" value="2022-09-12T16:24:27.364778">2022-09-12</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12927">12927</a></td>
+     <td id="title">야근 지수</td>
+     <td id="level">Lv. 3</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12927.java">JAVA</a></td>
+     <td id="date" value="2022-09-12T16:24:27.364786">2022-09-12</td>
+     <td id="memo"></td>
+    </tr>
    </tbody>
   </table>
  </div>
