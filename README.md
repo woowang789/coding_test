@@ -507,6 +507,118 @@
      <td id="level">Lv. 3</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_12927.java">JAVA</a></td>
      <td id="date" value="2022-09-12T16:24:27.364786">2022-09-12</td>
+     <td id="memo">배열의 새로운 사용법</td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">87946</a></td>
+     <td id="title">피로도</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_87946.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573156">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679">17679</a></td>
+     <td id="title">[1차] 프렌즈4블록</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_17679.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573185">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42898">42898</a></td>
+     <td id="title">등굣길</td>
+     <td id="level">Lv. 3</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42898.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573190">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17684">17684</a></td>
+     <td id="title">[3차] 압축</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_17684.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573193">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">17686</a></td>
+     <td id="title">[3차] 파일명 정렬</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_17686.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573196">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17687">17687</a></td>
+     <td id="title">[3차] n진수 게임</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_17687.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573199">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43163">43163</a></td>
+     <td id="title">단어 변환</td>
+     <td id="level">Lv. 3</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_43163.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573204">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">84512</a></td>
+     <td id="title">모음사전</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_84512.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573207">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">92335</a></td>
+     <td id="title">k진수에서 소수 개수 구하기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_92335.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573213">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341">92341</a></td>
+     <td id="title">주차 요금 계산</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_92341.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573216">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/49993">49993</a></td>
+     <td id="title">스킬트리</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_49993.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573223">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/49994">49994</a></td>
+     <td id="title">방문 길이</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_49994.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573226">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">42584</a></td>
+     <td id="title">주식가격</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42584.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573230">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913">12913</a></td>
+     <td id="title">땅따먹기</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12913.java">JAVA</a></td>
+     <td id="date" value="2022-09-15T01:33:12.573237">2022-09-15</td>
      <td id="memo"></td>
     </tr>
    </tbody>
