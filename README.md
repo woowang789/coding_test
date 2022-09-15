@@ -571,7 +571,7 @@
      <td id="level">Lv. 2</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_84512.java">JAVA</a></td>
      <td id="date" value="2022-09-15T01:33:12.573207">2022-09-15</td>
-     <td id="memo"></td>
+     <td id="memo">dfs, class scope 문제</td>
     </tr>
     <tr>
      <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">92335</a></td>
@@ -619,6 +619,54 @@
      <td id="level">Lv. 2</td>
      <td id="lang"><a href="src/main/java/problem/programmers/P_12913.java">JAVA</a></td>
      <td id="date" value="2022-09-15T01:33:12.573237">2022-09-15</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884">42884</a></td>
+     <td id="title">단속카메라</td>
+     <td id="level">Lv. 3</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42884.java">JAVA</a></td>
+     <td id="date" value="2022-09-16T01:25:58.318947">2022-09-16</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12987">12987</a></td>
+     <td id="title">숫자 게임</td>
+     <td id="level">Lv. 3</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12987.java">JAVA</a></td>
+     <td id="date" value="2022-09-16T01:25:58.319004">2022-09-16</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77885">77885</a></td>
+     <td id="title">2개 이하로 다른 비트</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_77885.java">JAVA</a></td>
+     <td id="date" value="2022-09-16T01:25:58.319008">2022-09-16</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">42579</a></td>
+     <td id="title">베스트앨범</td>
+     <td id="level">Lv. 3</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42579.java">JAVA</a></td>
+     <td id="date" value="2022-09-16T01:25:58.319013">2022-09-16</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42583">42583</a></td>
+     <td id="title">다리를 지나는 트럭</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_42583.java">JAVA</a></td>
+     <td id="date" value="2022-09-16T01:25:58.319016">2022-09-16</td>
+     <td id="memo"></td>
+    </tr>
+    <tr>
+     <td id="id"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12900">12900</a></td>
+     <td id="title">2 x n 타일링</td>
+     <td id="level">Lv. 2</td>
+     <td id="lang"><a href="src/main/java/problem/programmers/P_12900.java">JAVA</a></td>
+     <td id="date" value="2022-09-16T01:25:58.319022">2022-09-16</td>
      <td id="memo"></td>
     </tr>
    </tbody>
